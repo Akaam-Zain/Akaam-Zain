@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Edge of Chaos Dungeons - DApp**
 
-- 🌱 I’m currently learning **Unreal**
-
-- 💬 Ask me about **NextJS, ReactJS, Rust, Typescript, Bevy**
+- 💬 Ask me about **Solidity, NextJS, ReactJS, Rust, Typescript, Bevy**
 
 - 📫 How to reach me **akaamzain@hotmail.com**
 
